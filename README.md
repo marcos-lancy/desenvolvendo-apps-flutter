@@ -4,9 +4,9 @@
 
 # Desenvolvendo e se desenvolvendo em Flutter
 
-Olá, seja muito bem-viondo(a) você que chegou até aqui. Inicio no universo de live stream com o objetivo de aprender e compartilhar o conhecimento na linguade de programação Dart/Flutter.
+Olá, seja muito bem-vindo(a) você que chegou até aqui. Inicio no universo de live stream com o objetivo de aprender e compartilhar o conhecimento na linguagem de programação Dart/Flutter.
 
-Estarei consumindo os cursos e trilhas da Alura para estes primeiros paços e este repositório guardará todos os códigos gerados no processo.
+Estarei consumindo os cursos e trilhas da Alura para estes primeiros passos, e este repositório guardará todos os códigos gerados no processo.
 
 - Link de acesso ao canal => [TwtichTV](https://www.twitch.tv/marcos_lancy)
 
